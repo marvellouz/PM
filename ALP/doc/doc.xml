@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+  "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+  <!ENTITY authors SYSTEM "authors.xml">
+  <!ENTITY furps SYSTEM "furps.xml"> 
+  <!ENTITY revisions SYSTEM "revisions.xml"> 
+  <!ENTITY overview SYSTEM "overview.xml"> 
+  <!ENTITY usecases SYSTEM "usecases.xml"> 
+  <!ENTITY domain SYSTEM "domain.xml"> 
+  <!ENTITY diagrams SYSTEM "diagrams.xml"> 
+  <!ENTITY iteration SYSTEM "iteration.xml"> 
+  <!ENTITY glossary SYSTEM "glossary.xml"> 
+]>
+
+<!-- comment -->
+
+<article lang="bg">
+  <articleinfo>
+    <title>Информационна система за телекомуникационна компания</title>
+    <subtitle>Проект по Анализ и логическо проектиране</subtitle>
+  &authors;
+  &revisions;
+  </articleinfo>
+  &overview;
+  &usecases;
+  &furps;
+  &domain;
+  &diagrams;
+  &iteration;
+  &glossary;
+</article>

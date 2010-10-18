@@ -1,0 +1,249 @@
+﻿<glossary>
+
+  <glossdiv>
+    <title>Основни термини</title>
+    <glossentry id="gloss_company">
+      <glossterm>
+	Компанията
+      </glossterm>
+      <glossdef>
+	<para>
+	  Фирмата-поръчител на системата "Галилео Галилей" ООД.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_system">
+      <glossterm>
+	Системата
+      </glossterm>
+      <glossdef>
+	<para>
+	  Инфорамционната система, проектирана от "Октопод" ООД за нуждите на Компанията.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_user">
+      <glossterm>
+	Потребител
+      </glossterm>
+      <glossdef>
+	<para>
+	  Служител на Компанията, който притежава уникално потребителско име и парола за вход.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_admin">
+      <glossterm>
+	Администратор
+      </glossterm>
+      <glossdef>
+	<para>
+	  Служител на Компанията, който поддържа системата, управлява акаунтите на потребителите и има пълни права за използване на системата.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_client">
+      <glossterm>
+	Клиент
+      </glossterm>
+      <glossdef>
+	<para>
+	  Физическо или юридическо лице, което ползва услугите на Компанията. Клиентът няма достъп до системата, но за него се пази нужната информация.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_clientstatus">
+      <glossterm>
+	Статус на клиента
+      </glossterm>
+      <glossdef>
+	<para>
+	  Информация за всички дейности, които са свързани с клиента. Например, коментар след проведен телефонен разговор;
+	  писмено искане от клиента за допълнителна услуга и т.н.
+	</para>
+      </glossdef>
+    </glossentry>
+
+
+    <glossentry id="gloss_login">
+      <glossterm>
+	Вписване в системата
+      </glossterm>
+      <glossdef>
+	<para>
+	  Системата разпознава потребителя и му дава специални за него права и достъп до персонализирана информация.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_device">
+      <glossterm>
+	Устройство
+      </glossterm>
+      <glossdef>
+	<para>
+	  Устройство, което се монтира на мобилен обект с цел мониторинг на работата му. 
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="ticket">
+      <glossterm>
+	Тикет
+      </glossterm>
+      <glossdef>
+	<para>
+	  Заявка към друг потребител, група от потребители или отдел за извършване на определена дейност.
+	  Тикетът представлява текст (с или без прикачен файл) въведен от потребителя, който го е създал.
+	  Към него може да се добавят нови коментари от собственика (един или няколко) и да се променя статусът му, в зависимост от развитито на проблема.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_priority">
+      <glossterm>
+	Приоритет
+      </glossterm>
+      <glossdef>
+	<para>
+	  Определя важността на даден тикет. Избира се измежду:
+	  <itemizedlist>
+	    <listitem>слаб</listitem>
+	    <listitem>среден</listitem>
+	    <listitem>силен</listitem>
+	  </itemizedlist>
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_status">
+      <glossterm>
+	Статус
+      </glossterm>
+      <glossdef>
+	<para>
+	  Определя текущото състояние на тикета. Едно от следните:
+	  <itemizedlist>
+	    <listitem>свободен: тикет, който няма притежател</listitem>
+	    <listitem>приет: тикетът е приет от даден потребител</listitem>
+	    <listitem>разрешен: тикетът е приключен успешно</listitem>
+	    <listitem>отказан: тикетът е приключен неуспешно, поради невъзможност за разрешаването му</listitem>
+	    <listitem>невалиден</listitem>
+	  </itemizedlist>
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_event">
+      <glossterm>
+	Събитие
+      </glossterm>
+      <glossdef>
+	<para>Действие, което подсистемата за събития трябва да запише и проследи. Видовете събития са
+	<itemizedlist>
+	  <listitem>Вписване на потребител</listitem>
+	  <listitem>Изход на потребител</listitem>
+	  <listitem>Въвеждане на нов тикет</listitem>
+	  <listitem>Промяна на тикет</listitem>
+	  <listitem>Административна промяна на профил</listitem>
+	  <listitem>Въвеждане на устройство</listitem>
+	  <listitem>Въвеждане на обект</listitem>
+	  <listitem>Въвеждане на бележка към статуса на клиент.</listitem>
+	</itemizedlist>
+      </para>
+      </glossdef>
+    </glossentry>
+  </glossdiv>
+
+  <glossdiv><title>Отдели на Компанията</title>
+
+    <glossentry id="gloss_hardwaredept">
+      <glossterm>
+	Хардуерен отдел
+      </glossterm>
+      <glossdef>
+	<para>
+	  Отделът, отговорен за окомплектоването на различни компоненти в цялостно устройство.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_tradedept">
+      <glossterm>
+	Търговски отдел
+      </glossterm>
+      <glossdef>
+	<para>
+	  Отделът, който се грижи за подготовката за продажба на устройствата и услугите на Компанията на крайните клиенти.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_customersdept">
+      <glossterm>
+	Отдел Работа с клиенти
+      </glossterm>
+      <glossdef>
+	<para>
+	  Отделът, отговорен за комуникацията с клиентите на Компанията.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_supportdept">
+      <glossterm>
+	Следмонтажен отдел
+      </glossterm>
+      <glossdef>
+	<para>
+	  Отделът, който се грижи за поддръжката на устройствата, след като те вече са монтирани на мобилните обекти - дали те работят както се очаква.
+	  Този отдел решава проблеми с настройката на устройствата и поддържането им в експлоатация.
+	  Ако се открие хардуерен проблем, клиентът се насочва към Сервизен отдел.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_servicedept">
+      <glossterm>
+	Сервизен отдел
+      </glossterm>
+      <glossdef>
+	<para>
+	  Отделът, отговорен за извършването на ремонтни дейности по монтираните устройства на мобилните обекти на Клиентите.
+	</para>
+      </glossdef>
+    </glossentry>
+
+  </glossdiv>
+
+
+  <glossdiv id="gloss_notation"><title>Означения</title>
+
+    <glossentry id="gloss_usecase">
+      <glossterm>
+	UC-x
+      </glossterm>
+      <glossdef>
+	<para>
+	  Потребителски случай номер <emphasis>x</emphasis>.
+	</para>
+      </glossdef>
+    </glossentry>
+
+    <glossentry id="gloss_usecase">
+      <glossterm>
+	UC-x/s-An
+      </glossterm>
+      <glossdef>
+	<para>
+	  Алтернатива номер <emphasis>n</emphasis> на стъпка <emphasis>s</emphasis> от потребителски случай номер <emphasis>x</emphasis>. 
+	</para>
+      </glossdef>
+    </glossentry>
+  </glossdiv>
+</glossary>

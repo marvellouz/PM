@@ -1,0 +1,190 @@
+<revhistory>
+	<revision>
+		<revnumber>0.1</revnumber>
+		<date>11.03.2010</date>
+		<authorinitials>Емил</authorinitials>
+		<revremark>Скелет на документа. Основни секции.</revremark>
+	</revision>
+	<revision>
+		<revnumber>0.2</revnumber>
+		<date>14.03.2010</date>
+		<authorinitials>Всички</authorinitials>
+		<revremark>Визия на проекта.</revremark>
+	</revision>
+	<revision>
+		<revnumber>0.3</revnumber>
+		<date>21.03.2010</date>
+		<authorinitials>Мария</authorinitials>
+		<revremark>Функционалност на информационната система</revremark>
+	</revision>
+	<revision>
+		<revnumber>0.4</revnumber>
+		<date>26.03.2010</date>
+		<authorinitials>Всички</authorinitials>
+		<revremark>Списък от потребителски случаи</revremark>
+	</revision>
+	<revision>
+		<revnumber>0.4a</revnumber>
+		<date>31.03.2010</date>
+		<authorinitials>Емил</authorinitials>
+		<revremark>Поправка на формата на имената на потребителските случаи</revremark>
+	</revision>
+	<revision>
+		<revnumber>0.5.1</revnumber>
+		<date>10.04.2010</date>
+		<authorinitials>Емил</authorinitials>
+                <revremark>Потребителски случаи: <xref linkend="usecase_login"/>,
+                  <xref linkend="usecase_logout"/>, <xref linkend="usecase_registration"/></revremark>
+        </revision>
+        <revision>
+		<revnumber>0.5.2</revnumber>
+		<date>10.04.2010</date>
+		<authorinitials>Валентина</authorinitials>
+		<revremark>Потребителски случаи: <xref linkend="usecase_edit_user"/>, <xref linkend ="usecase_delete_user"/>,
+		  <xref linkend="usecase_admin_edit_user"/>
+                  </revremark>
+	</revision>
+	<revision>
+		<revnumber>0.5.3</revnumber>
+		<date>10.04.2010</date>
+		<authorinitials>Ники</authorinitials>
+		<revremark>Потребителски случаи: <xref linkend ="usecase_new_client"/>,
+		  <xref linkend ="usecase_edit_client"/>
+		</revremark>
+	</revision>
+        <revision>
+                <revnumber>0.5.4</revnumber>
+		<date>10.04.2010</date>
+		<authorinitials>Мария</authorinitials>
+		<revremark>Потребителски случаи: <xref linkend ="usecase_add_comment"/>,
+		  				 <xref linkend ="usecase_delete_comment"/></revremark>
+	</revision>
+	<revision>
+		<revnumber>0.5.5</revnumber>
+		<date>10.04.2010</date>
+                <authorinitials>Станислав</authorinitials>
+		<revremark>Потребителски случаи: <xref linkend="usecase_edit_ticket"/>,
+		  Добавяне на файл към тикет (по-късно част от <xref linkend="usecase_new_ticket"/>),
+		  <xref linkend="usecase_list_tickets"/>
+		</revremark>
+    </revision>
+  
+    <revision>
+		<revnumber>0.5.6</revnumber>
+		<date>10.04.2010</date>
+                <authorinitials>Ивайло</authorinitials>
+                <revremark>Потребителски случаи: <xref linkend ="usecase_add_device"/>, <xref linkend="usecase_compatible"/>,
+                  <xref linkend ="usecase_check_device"/></revremark>
+    </revision>
+
+    <revision>
+		<revnumber>0.5.7</revnumber>
+		<date>10.04.2010</date>
+                <authorinitials>Валентина</authorinitials>
+		<revremark>Редакция на потребителските случаи</revremark>
+    </revision>
+
+    <revision>
+		<revnumber>0.5.8</revnumber>
+		<date>1.05.2010</date>
+                <authorinitials>Валентина</authorinitials>
+                <authorinitials>Емил</authorinitials>
+                <authorinitials>Ивайло</authorinitials>
+		<revremark>Нов потребителски случай: <xref linkend="usecase_new_ticket"/>. Редакция на потребителски случаи.</revremark>
+    </revision>
+
+    <revision>
+		<revnumber>0.5.9</revnumber>
+		<date>9.05.2010</date>
+                <authorinitials>Ивайло</authorinitials>
+                <authorinitials>Валентина</authorinitials>
+                <authorinitials>Емил</authorinitials>
+		<revremark>Домейн модел</revremark>
+    </revision>
+
+    <revision>
+		<revnumber>0.5.9.1</revnumber>
+		<date>22.05.2010</date>
+                <authorinitials>Емил</authorinitials>
+		<revremark>
+		  Нов потребителски случай:
+		  <xref linkend="usecase_new_contract"/>.
+		  Редакция на потребителски случаи:
+		  <xref linkend="usecase_add_device"/>,
+		  <xref linkend="usecase_compatible"/>,
+		  <xref linkend="usecase_edit_ticket"/>,
+		  <xref linkend="usecase_edit_user"/>.
+		  Домейн модел: добавяне на клас Договор,
+		  капсулиране на име и парола в ПрофилЗаВписване.
+		</revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.0</revnumber>
+		<date>26.05.2010</date>
+                <authorinitials>Валентина</authorinitials>
+		<revremark>Промяна на потребителски случаи:
+		  <xref linkend ="usecase_add_comment"/>,
+		  <xref linkend ="usecase_delete_comment"/>,
+		  <xref linkend ="usecase_new_client"/> </revremark>
+    </revision>
+	<revision>
+		<revnumber>0.6.1</revnumber>
+		<date>27.05.2010</date>
+                <authorinitials>Ивайло</authorinitials>
+		<revremark><xref linkend="ssd-uc4"/></revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.2</revnumber>
+		<date>27.05.2010</date>
+                <authorinitials>Валентина</authorinitials>
+		<revremark><xref linkend ="ssd-uc2"/>,
+		  <xref linkend ="activity-uc9"/>
+		</revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.3</revnumber>
+		<date>28.05.2010</date>
+                <authorinitials>Ники</authorinitials>
+		<revremark><xref linkend ="ssd-uc13"/>,
+		<xref linkend ="activity-uc11"/></revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.4</revnumber>
+		<date>28.05.2010</date>
+                <authorinitials>Емил</authorinitials>
+		<revremark><xref linkend="ssd-uc3"/>,
+		<xref linkend="scd-ticket"/>
+		</revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.5</revnumber>
+		<date>28.05.2010</date>
+                <authorinitials>Ивайло</authorinitials>
+		<revremark><xref linkend="activity-uc2"/></revremark>
+    </revision>
+
+    <revision>
+		<revnumber>0.6.6</revnumber>
+		<date>28.05.2010</date>
+                <authorinitials>Мария</authorinitials>
+		<revremark><xref linkend="ssd-uc15"/>,
+		<xref linkend="scd-uc15"/></revremark>
+    </revision>
+    <revision>
+		<revnumber>0.6.7</revnumber>
+		<date>28.05.2010</date>
+                <authorinitials>Станислав</authorinitials>
+		<revremark><xref linkend="scd-uc2"/>,
+		  <xref linkend="ssd-uc5"/>
+		</revremark>
+    </revision>
+    <revision>
+		<revnumber>1.0</revnumber>
+		<date>29.05.2010</date>
+                <authorinitials>Емил</authorinitials>
+		<revremark>Поправка на домейн модела,
+		  план на итерациите</revremark>
+    </revision>
+ 
+  
+</revhistory>

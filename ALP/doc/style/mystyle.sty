@@ -1,0 +1,140 @@
+%%
+%% This style is derivated from the docbook one
+%%
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{mystyle}[2007/04/04 My DocBook Style]
+%% Just use the original package and pass the options
+\RequirePackageWithOptions{docbook}
+%% Redefine the paragraph layout
+\setlength\parskip{\medskipamount}
+\setlength\parindent{5pt}
+%% Redefine some french settings
+\babelsetup{fr}{%
+\catcode‘\«=\active
+\catcode‘\»=\active
+\def«{u\og\ignorespaces}
+\def»{v\unskip\fg}
+}
+
+\renewcommand{\DBKdate}{\today}
+\langsetupdbk{bg}{
+  \hypersetup{unicode}
+  \def\examplename{Пример}
+  \def\ondate{on}
+  \renewcommand{\DBKreleaseinfo}{РАБОТЕН ВАРИАНТ}
+  \def\writtenby{Авторство}
+  \def\projname{ПРОЕКТ}
+  \def\titlename{ЗАГЛАВИЕ}
+  \def\DBKrefname{ПРЕПРАТКА}
+  \def\DBKindname{ИМЕ}
+  \def\DBKindtitle{УЧАСТНИЦИ}
+  \def\DBKrevtitle{ИСТОРИЯ НА ДОКУМЕНТА}
+  \def\DBKrevdesc{ОПИСАНИЕ}
+  \def\DBKrevnumber{НОМЕР}
+  \def\DBKrevname{ИМЕ}
+  \def\DBKrevdate{ДАТА}
+  \def\DBKcontrib{ДЕЙСТВИЕ}
+  \def\DBKsignature{ПОДПИС}
+}
+
+
+% Index table environment
+\renewenvironment{DBKindtable}{
+\begin{center}
+\begin{tabular}{
+  |>{\centering}m{3cm} |>{\centering}m{6cm} |>{\centering}m{3cm}
+  |>{\centering}m{1cm} >{\centering}m{1cm} | }
+  \multicolumn{5}{c}{\Large{\textbf{\DBKindtitle}}}
+  \tabularnewline
+  \hline
+  & & & & \tabularnewline
+  \emph{\DBKcontrib} & \emph{\DBKindname} & \emph{\DBKrevdate} & \multicolumn{2}{c|}{\emph{\DBKsignature}}
+  \tabularnewline 
+   & & & & \tabularnewline
+  \hline
+}{
+\end{tabular}
+\end{center}
+}
+
+\renewenvironment{DBKrevtable}{
+  \begin{center}
+  \savetablecounter %
+  \begin{longtable}{ |>{\centering}p{3cm} |>{\centering}p{3cm} |>
+  {\raggedright}p{6.9cm} |>{\centering}p{3cm} | }
+  %% Domitete
+  \multicolumn{4}{c}{\Large{\textbf{\DBKrevtitle}}} \tabularnewline
+
+  %% Table Titles
+  \hline
+  & & & \tabularnewline
+  \multicolumn{1}{|c|}{\DBKrevnumber}& \multicolumn{1}{c|}{\DBKrevdate} &
+    \multicolumn{1}{c|}{\DBKrevdesc} & \multicolumn{1}{c|}{\DBKrevname}
+  \tabularnewline 
+   & & & \tabularnewline
+  \hline
+  \endhead
+}{
+  \end{longtable}
+  \restoretablecounter %
+  \end{center}
+}
+
+\newcounter{usecase}
+\newcounter{alternative}
+\setcounter{alternative}{0}
+
+\newenvironment{usecase}[1]%
+{\refstepcounter{usecase}\par\noindent
+\textbf{UC-\theusecase} \textit{\ #1}
+\par\noindent}%
+{\par}
+
+\definecolor{colorforlinks}{RGB}{2,23,124}
+
+% Title Page customizations
+\def\DBKcover{
+\ifthenelse{\equal{\DBKedition}{}}{\def\edhead{}}{\def\edhead{Ed. \DBKedition}}
+
+% interligne double
+\setlength{\oldbaselineskip}{\baselineskip}
+\setlength{\baselineskip}{2\oldbaselineskip}
+\textsf{
+\begin{center}
+  \large{Факултет по математика и информатика,\\
+          СУ ''Св. Климент Охридски''
+        }
+\end{center}
+\vfill
+\vspace{2.5cm}
+\begin{center}
+  \huge{\textbf{\DBKtitle}}\\ %
+  \ifx\DBKsubtitle\relax\else%
+    \underline{\ \ \ \ \ \ \ \ \ \ \ }\\ %
+    \ \\ %
+    \large{\textbf{\DBKsubtitle}}\\ %
+    \ \\ %
+    \large{\textit{\DBKauthor}}\\ %
+    \ \\ %
+    \vfill
+    \vspace{4.5cm}
+    \small{\textsc{Версия от: }\number\day.\number\month.\number\year г.}
+  \fi
+\end{center}
+\vfill
+\setlength{\baselineskip}{\oldbaselineskip}
+\hspace{1cm}
+\vspace{1cm}
+\begin{center}
+\begin{tabular}{p{7cm} p{7cm}}
+\Large{\DBKreference{} \edhead} & \\
+\end{tabular}
+\end{center}
+}
+
+% Format for the other pages
+\newpage
+\setlength{\baselineskip}{\oldbaselineskip}
+\chead[]{\DBKcheadfront}
+\lfoot[]{}
+}

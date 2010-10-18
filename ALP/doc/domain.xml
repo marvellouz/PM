@@ -1,0 +1,12 @@
+<!--Vision-->
+<sect1>
+  <title>Домейн модел</title>
+  <figure>
+    <title>Диаграма на домейн модела</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/domain.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+</sect1>

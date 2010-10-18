@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:date="http://exslt.org/dates-and-times">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--
+              This file is generated from xml source: DO NOT EDIT
+      -->
+    <title> - Planner</title>
+    <meta name="GENERATOR" content="Planner HTML output" />
+    <style type="text/css" media="print">
+
+/* CSS Stylesheet for Planner HTML output.
+ * 
+ * Copyright (C) 2004-2005 Imendio AB
+ * Copyright (C) 2003 CodeFactory AB
+ * Copyright (C) 2003 Daniel Lundin (daniel@edgewall.com)
+ * Copyright (C) 2004 Chris Ladd (caladd@particlestorm.net)
+ */
+
+/*
+ * Fonts 
+ */
+html,body,table { 
+ font-family: "Bitstream Vera Sans", helvetica, Arial, sans-serif;
+ font-size: 12px;
+ white-space: nowrap;
+}
+
+tr,td,th,table,font,span,div,h1,h2,h3 {
+ font-family: "Bitstream Vera Sans", helvetica, Arial, sans-serif;
+}
+
+h1 {
+ font-size: 16px;
+}
+
+h2 {
+ font-size: 12px;
+ margin-bottom: 2px;
+}
+
+div.separator {
+ margin: 1em;
+}
+
+/*
+ * Header
+ */
+table.proj-header {
+ border: 0;
+ margin: 0;
+ width: auto;
+}
+
+table.proj-header .header {
+ font-weight: bold;
+}
+
+/*
+ * Footer
+ */
+.footer {
+ float: left;
+ width: 100%;
+ margin-top: 50px;  
+ padding-top: 2px;
+ border-style: dotted;
+ border-width: 1px 0 0 0;
+ border-color: #999;
+ font-size: 9px;
+ text-align: right;
+ clear: both;
+ color: #666;
+}
+
+a:link, a:visited {
+ text-decoration: none;
+ color: #666;
+}
+
+a:hover[href] {
+ text-decoration: underline;
+}
+
+
+/*
+ * Layout
+ */
+
+.gantt, .gantt-tasklist, .gantt-chart, .tasklist, .resourcelist {
+ float: left;
+}
+
+.gantt-tasklist, .gantt-chart, .tasklist-table, .resourcelist-table {
+ border-style: solid;
+ border-width: 1px;
+ border-color: #aaa;
+}
+
+.gantt-tasklist, .gantt-chart, .tasklist, .resourcelist {
+ overflow: auto;
+}
+
+.gantt, .tasklist, .resourcelist {
+  clear: both;
+  width: 100%;
+}
+
+.gantt-tasklist {
+ border-width: 1px 0px 1px 1px;
+ width: 30%;
+}
+
+.gantt-chart {
+ border-color: #aaa #aaa #aaa #fff;
+ width: 69.5%;
+}
+
+.tasklist, .resourcelist {
+ clear: left;
+}
+
+table {
+ width: 100%;
+ border-collapse: collapse;
+ border-style: none;
+ border-color: #fff;
+ white-space: nowrap;
+ margin: 0;
+}
+
+tr, td, th {
+ white-space: nowrap;
+ vertical-align: top;
+ padding-top: 1px;
+ padding-bottom: 1px;
+}
+
+th {
+ vertical-align: top;
+}
+
+tr {
+ height: 1.5em;
+}
+
+tr.header {
+ background-color: #aaa;
+ color: #fff;
+}
+
+tr.even {
+ background-color: #eee;
+}
+
+tr.odd {
+ background-color: #fff;
+}
+
+th span, td span {
+ margin-left: 6px;
+ margin-right: 6px;
+}
+
+th.note {
+ min-width: 20em;
+}
+
+td.note {
+ white-space: normal;
+}
+
+/*
+ * Gantt
+ */
+div.gantt-empty-begin, div.gantt-empty-end, div.gantt-complete-done, div.gantt-complete-notdone, div.gantt-summary {
+ overflow: hidden;
+ clear: none;
+ float: left; 
+ height: 0.75em;
+ margin-top: 0.15em;
+ margin-bottom: 0;
+}
+
+div.gantt-complete-done {
+ background-color: #495f6b;
+ height: 0.75em;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+
+div.gantt-complete-notdone {
+ background-color: #8db6cd;
+ border-style: solid;
+ border-width: 1px;
+}
+
+div.gantt-summary {
+ height: 0.3em;
+ margin-top: 0.25em;
+ border-bottom: 2px dashed #000;
+}
+
+div.gantt-empty-end {
+ margin-left: 0;
+}
+
+div.gantt-milestone {
+ float: left;
+ font-size: 0.9em;
+ color: #000000;
+ position: relative;
+ margin-left: 0;
+ margin-right: 0;
+}
+
+div.gantt-resources {
+ float: left;
+ margin-left: 0.5em;
+ white-space: nowrap;
+}
+
+th.gantt-1day-header {
+  width: 19px;
+}
+
+th.gantt-2day-header {
+  width: 39px;
+}
+
+th.gantt-3day-header {
+  width: 59px;
+}
+
+th.gantt-4day-header {
+  width: 79px;
+}
+
+th.gantt-5day-header {
+  width: 99px;
+}
+
+th.gantt-6day-header {
+  width: 119px;
+}
+
+th.gantt-week-header, .gantt-resources {
+ width: 139px;
+}
+
+th.gantt-day-header {
+ margin: 0;
+ padding-top: 1px;
+ padding-bottom: 1px;
+ width: 19px;
+}
+
+</style>
+<!--[if IE]><style type="text/css">
+
+/* IE specific overrides to compensate for the different box model used by IE
+ * (see http://en.wikipedia.org/wiki/Internet_Explorer_box_model_bug)
+ */
+
+.gantt-resources {
+  overflow: hidden;
+}
+
+
+.tasklist, .resourcelist {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 1em;
+}
+
+
+.gantt-tasklist, .gantt-chart {
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+
+.gantt-chart {
+  padding-bottom: 1px;
+}
+
+
+
+.tasklist-table, .resourcelist-table {
+  width: 99.8%;
+}
+
+/*
+div.gantt-empty-begin, div.gantt-empty-end, div.gantt-complete-done, div.gantt-complete-notdone, div.gantt-summary {
+ height: 1.75em;
+}
+
+div.gantt-complete-done {
+ height: 0.75em;
+}
+
+div.gantt-summary {
+ height: 0.3em;
+}
+*/
+th.gantt-1day-header {
+  width: 20px;
+}
+
+th.gantt-2day-header {
+  width: 40px;
+}
+
+th.gantt-3day-header {
+  width: 60px;
+}
+
+th.gantt-4day-header {
+  width: 80px;
+}
+
+th.gantt-5day-header {
+  width: 100px;
+}
+
+th.gantt-6day-header {
+  width: 120px;
+}
+
+th.gantt-week-header {
+ width: 140px;
+}
+
+th.gantt-day-header {
+ width: 20px;
+}
+
+</style><![endif]-->
+<!--[if gte IE 7]><style type="text/css">
+
+.gantt-chart {
+  padding-bottom: 0px;
+}
+
+</style><![endif]-->
+  </head>
+  <body>
+    <div class="tasklist">
+      <h2>
+        <a name="tasks" id="tasks">План на итерациите</a>
+      </h2>
+      <div class="tasklist-table">
+        <table cellspacing="0" cellpadding="0" border="1">
+          <tr class="header" align="left">
+            <th>
+              <span>Номер</span>
+            </th>
+            <th>
+              <span>Име</span>
+            </th>
+            <th>
+              <span>Продължителност</span>
+            </th>
+            <th>
+              <span>Приоритет</span>
+            </th>
+            <th class="note">
+              <span>Бележки</span>
+            </th>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>1</span>
+            </td>
+            <td>
+              <a name="task1" style="font-weight: bold; margin-left: 0px" id="task1">
+                <span>Итерация 1: Подсистема за вписване</span>
+              </a>
+            </td>
+            <td>
+              <span>16d </span>
+            </td>
+            <td></td>
+            <td></td>
+            <td>
+              <span></span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>1.1</span>
+            </td>
+            <td>
+              <a name="task2" style="margin-left: 18px" id="task2">
+                <span>Регистрация на нов потребител</span>
+              </a>
+            </td>
+            <td>
+              <span>5d </span>
+            </td>
+            <td align="center">
+              <span>5</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>1.2</span>
+            </td>
+            <td>
+              <a name="task3" style="margin-left: 18px" id="task3">
+                <span>Тестване на регистрация</span>
+              </a>
+            </td>
+            <td>
+              <span>1d </span>
+            </td>
+            <td align="center">
+              <span>4</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>1.3</span>
+            </td>
+            <td>
+              <a name="task4" style="margin-left: 18px" id="task4">
+                <span>Вход/Изход от системата</span>
+              </a>
+            </td>
+            <td>
+              <span>2d </span>
+            </td>
+            <td align="center">
+              <span>8</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>1.4</span>
+            </td>
+            <td>
+              <a name="task5" style="margin-left: 18px" id="task5">
+                <span>Тестване на вход/изход</span>
+              </a>
+            </td>
+            <td>
+              <span>2d </span>
+            </td>
+            <td align="center">
+              <span>6</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>1.5</span>
+            </td>
+            <td>
+              <a name="task6" style="margin-left: 18px" id="task6">
+                <span>Потр. редакция на профил</span>
+              </a>
+            </td>
+            <td>
+              <span>2d </span>
+            </td>
+            <td align="center">
+              <span>8</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>1.6</span>
+            </td>
+            <td>
+              <a name="task7" style="margin-left: 18px" id="task7">
+                <span>Тестване на потр. редакция на профил</span>
+              </a>
+            </td>
+            <td>
+              <span>1d </span>
+            </td>
+            <td align="center">
+              <span>6</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>1.7</span>
+            </td>
+            <td>
+              <a name="task8" style="margin-left: 18px" id="task8">
+                <span>Административна редакция на потребителски профил</span>
+              </a>
+            </td>
+            <td>
+              <span>1d </span>
+            </td>
+            <td align="center">
+              <span>8</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>1.8</span>
+            </td>
+            <td>
+              <a name="task9" style="margin-left: 18px" id="task9">
+                <span>Изтриване на потребител</span>
+              </a>
+            </td>
+            <td>
+              <span>1d </span>
+            </td>
+            <td align="center">
+              <span>6</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>1.9</span>
+            </td>
+            <td>
+              <a name="task10" style="margin-left: 18px" id="task10">
+                <span>Тестване на администраторската част</span>
+              </a>
+            </td>
+            <td>
+              <span>1d </span>
+            </td>
+            <td align="center">
+              <span>8</span>
+            </td>
+            <td class="note">
+              <span></span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>2</span>
+            </td>
+            <td>
+              <a name="task11" style="margin-left: 0px" id="task11">
+                <span>Итерация 2: Администриране на данни за клиенти и договори</span>
+              </a>
+            </td>
+            <td>
+              <span>14d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Въвеждане,изтриване на клиенти и обекти.</span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>3</span>
+            </td>
+            <td>
+              <a name="task12" style="margin-left: 0px" id="task12">
+                <span>Итерация 3: Клиентски статуси и обекти</span>
+              </a>
+            </td>
+            <td>
+              <span>10d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Създаване,редактиране на клиентски статуси.</span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>4</span>
+            </td>
+            <td>
+              <a name="task13" style="margin-left: 0px" id="task13">
+                <span>Итерация 4: Администриране на данни за устройства и части</span>
+              </a>
+            </td>
+            <td>
+              <span>15d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Въвеждане/изтриване на устройства и части; Проверка на съвместимост</span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>5</span>
+            </td>
+            <td>
+              <a name="task14" style="margin-left: 0px" id="task14">
+                <span>Итерация 5: Потребителски интерфейс на администраторската част</span>
+              </a>
+            </td>
+            <td>
+              <span>15d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Подобряване на интерфейса, добавяне на функции, филтри, търсене и т.н.</span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>6</span>
+            </td>
+            <td>
+              <a name="task15" style="margin-left: 0px" id="task15">
+                <span>Итерация 6: Тикет система: създаване тикет</span>
+              </a>
+            </td>
+            <td>
+              <span>10d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Създаване на нов тикет; прикачване на файлове.</span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>7</span>
+            </td>
+            <td>
+              <a name="task16" style="margin-left: 0px" id="task16">
+                <span>Итерация 7: Тикет система: промяна на тикет</span>
+              </a>
+            </td>
+            <td>
+              <span>11d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Промяна на статус/собственост; коментари, изтриване на файлове, прехвърляне към друг отдел</span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>8</span>
+            </td>
+            <td>
+              <a name="task17" style="margin-left: 0px" id="task17">
+                <span>Итерация 8: Тикет система: потребителски интерфейс</span>
+              </a>
+            </td>
+            <td>
+              <span>13d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Търсене на тикет, сортиране и др.</span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>9</span>
+            </td>
+            <td>
+              <a name="task18" style="margin-left: 0px" id="task18">
+                <span>Итерация 9: Събития</span>
+              </a>
+            </td>
+            <td>
+              <span>13d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Управление на събития; писане на код за създаване на събитие при определени ситуации.</span>
+            </td>
+          </tr>
+          <tr class="odd">
+            <td>
+              <span>10</span>
+            </td>
+            <td>
+              <a name="task19" style="margin-left: 0px" id="task19">
+                <span>Итерация 10: Статистика и проверка на работата</span>
+              </a>
+            </td>
+            <td>
+              <span>15d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Проверка на работата на даден служител (събитията, в които участва);
+Различни статистики на работата на служителите като цяло и на отделите.</span>
+            </td>
+          </tr>
+          <tr class="even">
+            <td>
+              <span>11</span>
+            </td>
+            <td>
+              <a name="task20" style="margin-left: 0px" id="task20">
+                <span>Итерация 11: Подсистема за известия</span>
+              </a>
+            </td>
+            <td>
+              <span>14d </span>
+            </td>
+            <td align="center">
+              <span></span>
+            </td>
+            <td class="note">
+              <span>Създаване, конфигурация и тестване на подсистемата за известия.</span>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </body>
+</html>

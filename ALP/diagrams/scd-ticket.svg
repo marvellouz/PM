@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="367" version="1.1" width="474" xmlns="http://www.w3.org/2000/svg">
+<rect fill="#00ff" height="43" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="76" x="193" y="54"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="76" x="193" y="54"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#000000" stroke-width="1" width="76" x="193" y="54"/>
+<text font-family="Dialog" font-size="12" x="199" y="67">
+Свободен</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="193" x2="268" y1="76" y2="76"/>
+<rect fill="#00ff" height="43" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="70" x="190" y="190"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="70" x="190" y="190"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#000000" stroke-width="1" width="70" x="190" y="190"/>
+<text font-family="Dialog" font-size="12" x="204" y="203">
+Приет</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="190" x2="259" y1="212" y2="212"/>
+<rect fill="#00ff" height="43" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="78" x="14" y="310"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="78" x="14" y="310"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#000000" stroke-width="1" width="78" x="14" y="310"/>
+<text font-family="Dialog" font-size="12" x="20" y="323">
+Разрешен</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="14" x2="91" y1="332" y2="332"/>
+<rect fill="#00ff" height="43" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="70" x="390" y="190"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="70" x="390" y="190"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#000000" stroke-width="1" width="70" x="390" y="190"/>
+<text font-family="Dialog" font-size="12" x="397" y="203">
+Отказан</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="390" x2="459" y1="212" y2="212"/>
+<rect fill="#00ff" height="43" rx="16" ry="16" stroke="#00ff" stroke-width="1" width="84" x="185" y="308"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#ffffff" stroke-width="1" width="84" x="185" y="308"/>
+<rect fill="#ffffff" height="43" rx="16" ry="16" stroke="#000000" stroke-width="1" width="84" x="185" y="308"/>
+<text font-family="Dialog" font-size="12" x="191" y="321">
+Невалиден</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="185" x2="268" y1="330" y2="330"/>
+<polyline fill="none" points="246,97 246,190" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="239" x2="246" y1="178" y2="190"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="253" x2="246" y1="178" y2="190"/>
+<text font-family="Dialog" font-size="12" x="252" y="142">
+нов собственик</text>
+<polyline fill="none" points="190,233 92,310" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="97" x2="92" y1="297" y2="310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="105" x2="92" y1="308" y2="310"/>
+<text font-family="Dialog" font-size="12" x="101" y="265">
+решен</text>
+<polyline fill="none" points="260,198 390,198" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="378" x2="390" y1="205" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="378" x2="390" y1="191" y2="198"/>
+<text font-family="Dialog" font-size="12" x="260" y="185">
+не може да се реши</text>
+<polyline fill="none" points="227,233 227,308" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="220" x2="227" y1="296" y2="308"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="234" x2="227" y1="296" y2="308"/>
+<text font-family="Dialog" font-size="12" x="239" y="291">
+извън границите на системата</text>
+<polyline fill="none" points="54,310 54,198 190,198" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="178" x2="190" y1="205" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="178" x2="190" y1="191" y2="198"/>
+<text font-family="Dialog" font-size="12" x="26" y="194">
+възобновен</text>
+<ellipse cx="232" cy="22" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="232,30 232,54" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="225" x2="232" y1="42" y2="54"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="239" x2="232" y1="42" y2="54"/>
+<polyline fill="none" points="206,190 206,97" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="213" x2="206" y1="109" y2="97"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="199" x2="206" y1="109" y2="97"/>
+<text font-family="Dialog" font-size="12" x="54" y="141">
+отказ от собственост</text>
+<polyline fill="none" points="390,222 260,222" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="272" x2="260" y1="215" y2="222"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="272" x2="260" y1="229" y2="222"/>
+<text font-family="Dialog" font-size="12" x="273" y="217">
+нов собственик</text>
+<polyline fill="none" points="430,233 430,262 246,262 246,233" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="253" x2="246" y1="245" y2="233"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="239" x2="246" y1="245" y2="233"/>
+<text font-family="Dialog" font-size="12" x="300" y="257">
+възобновен</text>
+</svg>

@@ -1,0 +1,434 @@
+\documentclass{article}
+\usepackage[x11names, rgb]{xcolor}
+\usepackage[utf8x]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{snakes,arrows,shapes}
+\usepackage{amsmath}
+%
+%
+
+\usepackage[active,tightpage]{preview}
+\PreviewEnvironment{tikzpicture}
+\setlength\PreviewBorder{0pt}%
+
+\usetikzlibrary{calc}		    \tikzstyle{fork horizontal} =[to path={		      -| ($(\tikztostart)!0.5!(\tikztotarget)$) |- (\tikztotarget) \tikztonodes}]%
+
+\begin{document}
+\pagestyle{empty}
+%
+%
+%
+
+\enlargethispage{100cm}
+% Start of code
+% \begin{tikzpicture}[anchor=mid,>=latex',line join=bevel,]
+\begin{tikzpicture}[>=latex',line join=bevel,]
+  \pgfsetlinewidth{1bp}
+%%
+\pgfsetcolor{black}
+  % Edge: c9 -> c12
+  \draw [->] (612.82bp,319.42bp) .. controls (619.04bp,303.79bp) and (631.6bp,272.23bp)  .. (644.56bp,239.69bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (656bp,272bp) node {съдържа};
+  \draw (612bp,306bp) node {1};
+  \draw (645bp,246bp) node {*};
+  % Edge: c2 -> c4
+  \pgfsetcolor{black}
+  \draw [->] (293.32bp,309.19bp) .. controls (255.74bp,288.9bp) and (197.9bp,257.66bp)  .. (153.04bp,233.44bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (266bp,272bp) node {е-част-от};
+  \draw (283bp,305bp) node {1};
+  \draw (163bp,231bp) node {1};
+  % Edge: c7 -> c6
+  \pgfsetcolor{black}
+  \draw [->] (355.63bp,439.66bp) .. controls (381.14bp,430.98bp) and (414.65bp,415.46bp)  .. (434bp,390bp) .. controls (495.92bp,308.49bp) and (491.02bp,251.93bp)  .. (446bp,160bp) .. controls (442.57bp,152.99bp) and (437.41bp,146.55bp)  .. (424.14bp,133.85bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (515bp,272bp) node {има-прикачен};
+  \draw (363bp,429bp) node {1};
+  \draw (434bp,133bp) node {*};
+  % Edge: c7 -> c4
+  \pgfsetcolor{black}
+  \draw [->] (286.28bp,437.4bp) .. controls (251.04bp,423.84bp) and (197.46bp,398.04bp)  .. (167bp,358bp) .. controls (142.82bp,326.22bp) and (134.43bp,279.76bp)  .. (130.68bp,239.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (198bp,326bp) node {се-води-към};
+  \draw (276bp,434bp) node {*};
+  \draw (136bp,245bp) node {1};
+  % Edge: c15 -> c16
+  \pgfsetcolor{black}
+  \draw [->] (768.54bp,202.29bp) .. controls (749.82bp,185.97bp) and (722.51bp,162.16bp)  .. (694.32bp,137.59bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (746bp,164bp) node {има};
+  \draw (759bp,196bp) node {*};
+  \draw (704bp,137bp) node {1};
+  % Edge: c3 -> c4
+  \pgfsetcolor{black}
+  \draw [->] (48.98bp,319.12bp) .. controls (51.907bp,306.35bp) and (58.343bp,283.87bp)  .. (70bp,268bp) .. controls (77.71bp,257.5bp) and (88.362bp,248.13bp)  .. (106.93bp,234.65bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (93bp,272bp) node {ръководи};
+  \draw (47bp,306bp) node {*};
+  \draw (102bp,240bp) node {0..1};
+  % Edge: c8 -> c9
+  \pgfsetcolor{black}
+  \draw [->] (654.33bp,424.43bp) .. controls (643.57bp,401.78bp) and (627.84bp,368.66bp)  .. (613.6bp,338.68bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (648bp,380bp) node {има};
+  \draw (647bp,415bp) node {1};
+  \draw (621bp,342bp) node {1};
+  % Edge: n0cc8 -> c8
+  \draw [] (666bp,537.44bp) .. controls (666bp,519.57bp) and (666bp,493.06bp)  .. (666bp,473.73bp);
+  % Edge: c2 -> c5
+  \pgfsetcolor{black}
+  \draw [->] (330bp,304.49bp) .. controls (330bp,290.23bp) and (330bp,272.02bp)  .. (330bp,245.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (358bp,272bp) node {е-автор-на};
+  \draw (326bp,292bp) node {1};
+  \draw (334bp,251bp) node {*};
+  % Edge: c7 -> c5
+  \pgfsetcolor{black}
+  \draw [->] (286.46bp,414.71bp) .. controls (253.18bp,377.34bp) and (211.82bp,316.4bp)  .. (241bp,268bp) .. controls (250.12bp,252.86bp) and (265.93bp,242.35bp)  .. (290.96bp,231.32bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (256bp,326bp) node {има};
+  \draw (277bp,407bp) node {1};
+  \draw (284bp,235bp) node {*};
+  % Edge: c2 -> c10
+  \pgfsetcolor{black}
+  \draw [->] (357.33bp,304.28bp) .. controls (371.87bp,292.09bp) and (390.53bp,277.92bp)  .. (409bp,268bp) .. controls (439.48bp,251.63bp) and (476.76bp,239.34bp)  .. (514.81bp,228.73bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (433bp,272bp) node {участва-в};
+  \draw (362bp,292bp) node {*};
+  \draw (507bp,232bp) node {*};
+  % Edge: c16 -> c21
+  \pgfsetcolor{black}
+  \draw [->] (673bp,100.49bp) .. controls (673bp,86.767bp) and (673bp,67.792bp)  .. (673bp,41.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (726bp,68bp) node {описва-наличието-на};
+  \draw (669bp,88bp) node {1};
+  \draw (677bp,47bp) node {*};
+  % Edge: c8 -> c14
+  \pgfsetcolor{black}
+  \draw [->] (677.67bp,424.43bp) .. controls (687.01bp,404.77bp) and (700.09bp,377.22bp)  .. (714.14bp,347.65bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (710bp,380bp) node {има};
+  \draw (678bp,411bp) node {1};
+  \draw (714bp,354bp) node {*};
+  % Edge: c10 -> c11
+  \pgfsetcolor{black}
+  \draw [->] (544.34bp,196.31bp) .. controls (542.76bp,181.65bp) and (540.74bp,163bp)  .. (538.02bp,137.71bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (570bp,164bp) node {е-от-даден};
+  \draw (539bp,184bp) node {1};
+  \draw (543bp,143bp) node {1};
+  % Edge: c19 -> c20
+  \pgfsetcolor{black}
+  \draw [->] (925.89bp,100.49bp) .. controls (928.04bp,86.767bp) and (931bp,67.792bp)  .. (935.07bp,41.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (941bp,68bp) node {има};
+  \draw (923bp,87bp) node {*};
+  \draw (938bp,48bp) node {1};
+  % Edge: c9 -> c10
+  \pgfsetcolor{black}
+  \draw [->] (603.13bp,319.33bp) .. controls (597.4bp,309.86bp) and (588.49bp,295bp)  .. (581bp,282bp) .. controls (575.92bp,273.19bp) and (570.52bp,263.61bp)  .. (560.57bp,245.73bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (603bp,272bp) node {съдържа};
+  \draw (595bp,310bp) node {1};
+  \draw (569bp,248bp) node {*};
+  % Edge: c5 -> c6
+  \pgfsetcolor{black}
+  \draw [->] (347.67bp,196.31bp) .. controls (358.57bp,181.09bp) and (372.54bp,161.56bp)  .. (389.61bp,137.71bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (408bp,164bp) node {има-прикачен};
+  \draw (350bp,183bp) node {1};
+  \draw (388bp,144bp) node {*};
+  % Edge: c14 -> c15
+  \pgfsetcolor{black}
+  \draw [->] (734.67bp,310.19bp) .. controls (745.29bp,293.08bp) and (761.08bp,267.61bp)  .. (778.46bp,239.6bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (799bp,272bp) node {има-монтирано};
+  \draw (736bp,297bp) node {1};
+  \draw (777bp,246bp) node {1};
+  % Edge: c15 -> c19
+  \pgfsetcolor{black}
+  \draw [->] (814.39bp,202.29bp) .. controls (835.86bp,185.83bp) and (867.27bp,161.74bp)  .. (898.76bp,137.59bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (878bp,164bp) node {има};
+  \draw (819bp,190bp) node {1};
+  \draw (894bp,143bp) node {*};
+  % Edge: c17 -> c18
+  \pgfsetcolor{black}
+  \draw [->] (802bp,100.49bp) .. controls (802bp,86.767bp) and (802bp,67.792bp)  .. (802bp,41.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (812bp,68bp) node {има};
+  \draw (798bp,88bp) node {1};
+  \draw (806bp,47bp) node {1};
+  % Edge: c7 -> c14
+  \pgfsetcolor{black}
+  \draw [->] (355.53bp,438.25bp) .. controls (404.94bp,423.1bp) and (498.84bp,395.17bp)  .. (580bp,376bp) .. controls (621.4bp,366.22bp) and (634.22bp,373.06bp)  .. (674bp,358bp) .. controls (678.17bp,356.42bp) and (682.39bp,354.5bp)  .. (695.33bp,347.61bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (605bp,380bp) node {е-относно};
+  \draw (363bp,428bp) node {*};
+  \draw (689bp,352bp) node {0..1};
+  % Edge: c15 -> c17
+  \pgfsetcolor{black}
+  \draw [->] (792.2bp,202.29bp) .. controls (793.99bp,187.05bp) and (796.56bp,165.27bp)  .. (799.81bp,137.59bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (808bp,164bp) node {има};
+  \draw (789bp,189bp) node {1};
+  \draw (803bp,144bp) node {1};
+  % Edge: c4 -> c13
+  \pgfsetcolor{black}
+  \draw [->] (130bp,202.29bp) .. controls (130bp,187.05bp) and (130bp,165.27bp)  .. (130bp,137.59bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (140bp,164bp) node {има};
+  \draw (126bp,190bp) node {*};
+  \draw (134bp,143bp) node {*};
+  % Edge: c7 -> c2
+  \pgfsetcolor{black}
+  \draw [->] (286.45bp,419.45bp) .. controls (275.63bp,406.55bp) and (268.1bp,390.97bp)  .. (275bp,376bp) .. controls (277.73bp,370.09bp) and (281.6bp,364.64bp)  .. (293.44bp,352.41bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (311bp,380bp) node {е-създаден-от};
+  \draw (278bp,411bp) node {*};
+  \draw (290bp,358bp) node {1};
+  % Edge: c7 -> c2
+  \pgfsetcolor{black}
+  \draw [->] (339.21bp,412.27bp) .. controls (342.02bp,405.05bp) and (344.49bp,397.41bp)  .. (346bp,390bp) .. controls (347.75bp,381.36bp) and (346.82bp,372.13bp)  .. (341.81bp,353.78bp);
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (389bp,380bp) node {се-притежава-от};
+  \draw (339bp,399bp) node {*};
+  \draw (348bp,358bp) node {0..1};
+  % Node: n0cc8
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (728bp,577bp) -- (598bp,577bp) -- (598bp,538bp) -- (734bp,538bp) -- (734bp,571bp) -- cycle;
+  \draw (728bp,577bp) -- (728bp,571bp);
+  \draw (734bp,571bp) -- (728bp,571bp);
+  \draw (609bp,560bp) node[right] { Клиентът не е};
+  \draw (609bp,548bp) node[right] { потребител на с-мата};
+\end{scope}
+  % Node: c19
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (881bp,118bp) -- (881bp,137bp) -- (966bp,137bp) -- (966bp,118bp) -- cycle;
+  \draw (909bp,124bp) node[right] { Част };
+  \draw (881bp,100bp) -- (881bp,118bp) -- (966bp,118bp) -- (966bp,100bp) -- cycle;
+  \draw (885bp,106bp) node[right] {  сериенНомер};
+\end{scope}
+  % Node: c18
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (749bp,22bp) -- (749bp,41bp) -- (856bp,41bp) -- (856bp,22bp) -- cycle;
+  \draw (754bp,28bp) node[right] { МобиленОператор };
+  \draw (749bp,4bp) -- (749bp,22bp) -- (856bp,22bp) -- (856bp,4bp) -- cycle;
+  \draw (753bp,10bp) node[right] {  име};
+\end{scope}
+  % Node: c13
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (83bp,118bp) -- (83bp,137bp) -- (177bp,137bp) -- (177bp,118bp) -- cycle;
+  \draw (112bp,124bp) node[right] { Право };
+  \draw (83bp,100bp) -- (83bp,118bp) -- (177bp,118bp) -- (177bp,100bp) -- cycle;
+  \draw (87bp,106bp) node[right] {  идентификатор};
+\end{scope}
+  % Node: c12
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (613bp,220bp) -- (613bp,239bp) -- (691bp,239bp) -- (691bp,220bp) -- cycle;
+  \draw (628bp,226bp) node[right] { Бележка };
+  \draw (613bp,202bp) -- (613bp,220bp) -- (691bp,220bp) -- (691bp,202bp) -- cycle;
+  \draw (617bp,208bp) node[right] {  съдържание};
+\end{scope}
+  % Node: c11
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (498bp,118bp) -- (498bp,137bp) -- (574bp,137bp) -- (574bp,118bp) -- cycle;
+  \draw (503bp,124bp) node[right] { ВидСъбитие };
+  \draw (498bp,100bp) -- (498bp,118bp) -- (574bp,118bp) -- (574bp,100bp) -- cycle;
+  \draw (502bp,106bp) node[right] {  име};
+\end{scope}
+  % Node: c10
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (515bp,226bp) -- (515bp,245bp) -- (579bp,245bp) -- (579bp,226bp) -- cycle;
+  \draw (523bp,232bp) node[right] { Събитие };
+  \draw (515bp,196bp) -- (515bp,226bp) -- (579bp,226bp) -- (579bp,196bp) -- cycle;
+  \draw (519bp,214bp) node[right] {  дата };
+  \draw (519bp,202bp) node[right] {  описание};
+\end{scope}
+  % Node: c17
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (772bp,118bp) -- (772bp,137bp) -- (833bp,137bp) -- (833bp,118bp) -- cycle;
+  \draw (777bp,124bp) node[right] { SIMКарта };
+  \draw (772bp,100bp) -- (772bp,118bp) -- (833bp,118bp) -- (833bp,100bp) -- cycle;
+  \draw (776bp,106bp) node[right] {  номер};
+\end{scope}
+  % Node: c16
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (608bp,118bp) -- (608bp,137bp) -- (739bp,137bp) -- (739bp,118bp) -- cycle;
+  \draw (613bp,124bp) node[right] { ОписаниеНаУстройство };
+  \draw (608bp,100bp) -- (608bp,118bp) -- (739bp,118bp) -- (739bp,100bp) -- cycle;
+  \draw (612bp,106bp) node[right] {  текстoвоОписание};
+\end{scope}
+  % Node: c15
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (748bp,220bp) -- (748bp,239bp) -- (833bp,239bp) -- (833bp,220bp) -- cycle;
+  \draw (760bp,226bp) node[right] { Устройство };
+  \draw (748bp,202bp) -- (748bp,220bp) -- (833bp,220bp) -- (833bp,202bp) -- cycle;
+  \draw (752bp,208bp) node[right] {  сериенНомер};
+\end{scope}
+  % Node: c14
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (691bp,328bp) -- (691bp,347bp) -- (755bp,347bp) -- (755bp,328bp) -- cycle;
+  \draw (705bp,334bp) node[right] { Обект };
+  \draw (691bp,310bp) -- (691bp,328bp) -- (755bp,328bp) -- (755bp,310bp) -- cycle;
+  \draw (695bp,316bp) node[right] {  описание};
+\end{scope}
+  % Node: c9
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (561bp,319bp) -- (561bp,338bp) -- (658bp,338bp) -- (658bp,319bp) -- cycle;
+  \draw (609bp,329bp) node { КлиентскиСтатус};
+\end{scope}
+  % Node: c8
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (636bp,454bp) -- (636bp,473bp) -- (697bp,473bp) -- (697bp,454bp) -- cycle;
+  \draw (647bp,460bp) node[right] { Клиент };
+  \draw (636bp,424bp) -- (636bp,454bp) -- (697bp,454bp) -- (697bp,424bp) -- cycle;
+  \draw (640bp,442bp) node[right] {  име };
+  \draw (640bp,430bp) node[right] {  телефон};
+\end{scope}
+  % Node: c3
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (8bp,319bp) -- (8bp,338bp) -- (87bp,338bp) -- (87bp,319bp) -- cycle;
+  \draw (47bp,329bp) node { Ръководител};
+\end{scope}
+  % Node: c2
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (294bp,334bp) -- (294bp,353bp) -- (367bp,353bp) -- (367bp,334bp) -- cycle;
+  \draw (299bp,340bp) node[right] { Потребител };
+  \draw (294bp,304bp) -- (294bp,334bp) -- (367bp,334bp) -- (367bp,304bp) -- cycle;
+  \draw (298bp,322bp) node[right] {  име };
+  \draw (298bp,310bp) node[right] {  парола};
+\end{scope}
+  % Node: c1
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (482bp,562bp) -- (482bp,581bp) -- (573bp,581bp) -- (573bp,562bp) -- cycle;
+  \draw (487bp,568bp) node[right] { Администратор };
+  \draw (482bp,532bp) -- (482bp,562bp) -- (573bp,562bp) -- (573bp,532bp) -- cycle;
+  \draw (486bp,550bp) node[right] {  име };
+  \draw (486bp,538bp) node[right] {  парола};
+\end{scope}
+  % Node: c7
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (287bp,466bp) -- (287bp,485bp) -- (356bp,485bp) -- (356bp,466bp) -- cycle;
+  \draw (304bp,472bp) node[right] { Тикет };
+  \draw (287bp,412bp) -- (287bp,466bp) -- (356bp,466bp) -- (356bp,412bp) -- cycle;
+  \draw (291bp,454bp) node[right] {  описание };
+  \draw (291bp,442bp) node[right] {  заглавие };
+  \draw (291bp,430bp) node[right] {  статус };
+  \draw (291bp,418bp) node[right] {  приоритет};
+\end{scope}
+  % Node: c6
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (382bp,118bp) -- (382bp,137bp) -- (424bp,137bp) -- (424bp,118bp) -- cycle;
+  \draw (387bp,124bp) node[right] { Файл };
+  \draw (382bp,100bp) -- (382bp,118bp) -- (424bp,118bp) -- (424bp,100bp) -- cycle;
+  \draw (386bp,106bp) node[right] {  име};
+\end{scope}
+  % Node: c5
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (291bp,226bp) -- (291bp,245bp) -- (369bp,245bp) -- (369bp,226bp) -- cycle;
+  \draw (304bp,232bp) node[right] { Коментар };
+  \draw (291bp,196bp) -- (291bp,226bp) -- (369bp,226bp) -- (369bp,196bp) -- cycle;
+  \draw (295bp,214bp) node[right] {  съдържание };
+  \draw (295bp,202bp) node[right] {  заглавие};
+\end{scope}
+  % Node: c4
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (107bp,220bp) -- (107bp,239bp) -- (153bp,239bp) -- (153bp,220bp) -- cycle;
+  \draw (112bp,226bp) node[right] { Отдел };
+  \draw (107bp,202bp) -- (107bp,220bp) -- (153bp,220bp) -- (153bp,202bp) -- cycle;
+  \draw (111bp,208bp) node[right] {  име};
+\end{scope}
+  % Node: c20
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (889bp,22bp) -- (889bp,41bp) -- (988bp,41bp) -- (988bp,22bp) -- cycle;
+  \draw (894bp,28bp) node[right] { ОписаниеНаЧаст };
+  \draw (889bp,4bp) -- (889bp,22bp) -- (988bp,22bp) -- (988bp,4bp) -- cycle;
+  \draw (893bp,10bp) node[right] {  съдържание};
+\end{scope}
+  % Node: c21
+\begin{scope}
+  \definecolor{strokecol}{rgb}{0.0,0.0,0.0};
+  \pgfsetstrokecolor{strokecol}
+  \draw (645bp,22bp) -- (645bp,41bp) -- (702bp,41bp) -- (702bp,22bp) -- cycle;
+  \draw (650bp,28bp) node[right] { Функция };
+  \draw (645bp,4bp) -- (645bp,22bp) -- (702bp,22bp) -- (702bp,4bp) -- cycle;
+  \draw (649bp,10bp) node[right] {  име};
+\end{scope}
+%
+\end{tikzpicture}
+% End of code
+
+%
+\end{document}
+%
+
+
+

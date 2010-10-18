@@ -1,0 +1,14 @@
+<!--Vision-->
+<sect1>
+  <title>План на итерациите</title>
+  На  <xref linkend="fig-iteration"/> е показан план на итерациите, като е включен подробен план на първата итерация.
+
+  <figure id="fig-iteration">
+    <title>План на итерациите</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../iteration_plan/iteration_plan.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+</sect1>

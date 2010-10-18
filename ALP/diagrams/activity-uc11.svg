@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="540" version="1.1" width="608" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="334" cy="22" fill="#000000" rx="8.0" ry="8.0" stroke="#000000" stroke-width="1"/>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="199" x="359" y="151"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="201" x="358" y="150"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="201" x="358" y="150"/>
+<text font-family="Dialog" font-size="12" x="370" y="169">
+Въвеждане на нов клиент </text>
+<text font-family="Dialog" font-size="12" x="383" y="183">
+и информация за него</text>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="132" x="199" y="151"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="134" x="198" y="150"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="134" x="198" y="150"/>
+<text font-family="Dialog" font-size="12" x="228" y="169">
+Търсене на</text>
+<text font-family="Dialog" font-size="12" x="210" y="183">
+настоящ клиент</text>
+<polygon fill="#ffffff" points="462,366 478,382 462,398 446,382" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="462,366 478,382 462,398 446,382" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="15" stroke="#000000" stroke-width="1" width="107" x="486" y="382"/>
+<text font-family="Dialog" font-size="12" x="487" y="395">
+потвърждение?</text>
+<polyline fill="none" points="462,201 462,262" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="455" x2="462" y1="250" y2="262"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="469" x2="462" y1="250" y2="262"/>
+<polygon fill="#ffffff" points="462,262 478,278 462,294 446,278" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="462,262 478,278 462,294 446,278" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="15" stroke="#000000" stroke-width="1" width="107" x="342" y="246"/>
+<text font-family="Dialog" font-size="12" x="343" y="259">
+валидни данни?</text>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="112" x="399" y="423"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="114" x="398" y="422"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="114" x="398" y="422"/>
+<text font-family="Dialog" font-size="12" x="410" y="441">
+Записване на</text>
+<text font-family="Dialog" font-size="12" x="424" y="455">
+ данните</text>
+<ellipse cx="458" cy="514" fill="#000000" rx="12.0" ry="12.0" stroke="#000000" stroke-width="1"/>
+<ellipse cx="458" cy="514" fill="#ffffff" rx="11.0" ry="11.0" stroke="#ffffff" stroke-width="1"/>
+<ellipse cx="457" cy="513" fill="#000000" rx="7.5" ry="7.5" stroke="#000000" stroke-width="1"/>
+<polyline fill="none" points="458,473 458,502" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="458" y1="490" y2="502"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="465" x2="458" y1="490" y2="502"/>
+<polyline fill="none" points="478,278 542,278 542,310 339,310" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="351" x2="339" y1="303" y2="310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="351" x2="339" y1="317" y2="310"/>
+<text font-family="Dialog" font-size="12" x="508" y="267">
+не</text>
+<polyline fill="none" points="462,398 462,422" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="455" x2="462" y1="410" y2="422"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="469" x2="462" y1="410" y2="422"/>
+<text font-family="Dialog" font-size="12" x="431" y="412">
+да</text>
+<polygon fill="#ffffff" points="134,198 150,214 134,230 118,214" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="134,198 150,214 134,230 118,214" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="15" stroke="#000000" stroke-width="1" width="103" x="14" y="222"/>
+<text font-family="Dialog" font-size="12" x="15" y="235">
+празен списък?</text>
+<polyline fill="none" points="118,214 78,214 78,174 199,174" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="187" x2="199" y1="181" y2="174"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="187" x2="199" y1="167" y2="174"/>
+<text font-family="Dialog" font-size="12" x="93" y="206">
+да</text>
+<rect fill="#00ff" height="50" rx="52" ry="52" stroke="#00ff" stroke-width="1" width="110" x="71" y="271"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#ffffff" stroke-width="1" width="112" x="70" y="270"/>
+<rect fill="#ffffff" height="52" rx="52" ry="52" stroke="#000000" stroke-width="1" width="112" x="70" y="270"/>
+<text font-family="Dialog" font-size="12" x="82" y="289">
+Избиране на </text>
+<text font-family="Dialog" font-size="12" x="85" y="303">
+потребител</text>
+<polyline fill="none" points="134,230 134,271" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="127" x2="134" y1="259" y2="271"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="141" x2="134" y1="259" y2="271"/>
+<text font-family="Dialog" font-size="12" x="144" y="255">
+не</text>
+<rect fill="#00ff" height="46" rx="48" ry="48" stroke="#00ff" stroke-width="1" width="123" x="215" y="263"/>
+<rect fill="#ffffff" height="48" rx="48" ry="48" stroke="#ffffff" stroke-width="1" width="125" x="214" y="262"/>
+<rect fill="#ffffff" height="48" rx="48" ry="48" stroke="#000000" stroke-width="1" width="125" x="214" y="262"/>
+<text font-family="Dialog" font-size="12" x="236" y="281">
+Промяна на </text>
+<text font-family="Dialog" font-size="12" x="226" y="295">
+информацията</text>
+<polyline fill="none" points="181,289 215,289" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="203" x2="215" y1="296" y2="289"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="203" x2="215" y1="282" y2="289"/>
+<polyline fill="none" points="338,278 446,278" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="434" x2="446" y1="285" y2="278"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="434" x2="446" y1="271" y2="278"/>
+<polyline fill="none" points="262,201 262,214 150,214" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="162" x2="150" y1="207" y2="214"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="162" x2="150" y1="221" y2="214"/>
+<polyline fill="none" points="462,294 462,366" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="455" x2="462" y1="354" y2="366"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="469" x2="462" y1="354" y2="366"/>
+<text font-family="Dialog" font-size="12" x="471" y="305">
+да</text>
+<polygon fill="#ffffff" points="334,86 350,102 334,118 318,102" stroke="#ffffff" stroke-width="1"/>
+<polygon fill="none" points="334,86 350,102 334,118 318,102" stroke="#000000" stroke-width="1"/>
+<rect fill="none" height="15" stroke="#000000" stroke-width="1" width="82" x="302" y="118"/>
+<text font-family="Dialog" font-size="12" x="303" y="131">
+Нов клиент?</text>
+<polyline fill="none" points="334,30 334,86" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="327" x2="334" y1="74" y2="86"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="341" x2="334" y1="74" y2="86"/>
+<polyline fill="none" points="318,102 262,102 262,151" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="255" x2="262" y1="139" y2="151"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="269" x2="262" y1="139" y2="151"/>
+<text font-family="Dialog" font-size="12" x="251" y="98">
+да</text>
+<polyline fill="none" points="350,102 446,102 446,151" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="439" x2="446" y1="139" y2="151"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="453" x2="446" y1="139" y2="151"/>
+<text font-family="Dialog" font-size="12" x="414" y="97">
+не</text>
+<polyline fill="none" points="446,382 286,382 286,310" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="293" x2="286" y1="322" y2="310"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="279" x2="286" y1="322" y2="310"/>
+<text font-family="Dialog" font-size="12" x="421" y="375">
+не</text>
+</svg>

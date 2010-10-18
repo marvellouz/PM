@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="604" version="1.1" width="1046" xmlns="http://www.w3.org/2000/svg">
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="63" y2="68"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="73" y2="78"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="83" y2="88"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="93" y2="98"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="103" y2="108"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="113" y2="118"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="123" y2="128"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="133" y2="138"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="143" y2="148"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="153" y2="158"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="163" y2="168"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="173" y2="178"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="183" y2="188"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="193" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="203" y2="208"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="213" y2="218"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="223" y2="228"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="233" y2="238"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="243" y2="248"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="253" y2="258"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="263" y2="268"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="273" y2="278"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="283" y2="288"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="293" y2="298"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="303" y2="308"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="313" y2="318"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="323" y2="328"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="333" y2="338"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="343" y2="348"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="353" y2="358"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="363" y2="368"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="373" y2="378"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="383" y2="388"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="393" y2="398"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="403" y2="408"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="413" y2="418"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="423" y2="428"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="433" y2="438"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="443" y2="448"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="453" y2="458"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="463" y2="468"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="473" y2="478"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="483" y2="488"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="493" y2="498"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="503" y2="508"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="513" y2="518"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="523" y2="528"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="533" y2="538"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="543" y2="548"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="553" y2="558"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="563" y2="568"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="573" y2="578"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="89" x2="89" y1="583" y2="588"/>
+<rect fill="#ffffff" height="526" stroke="#ffffff" stroke-width="1" width="20" x="79" y="63"/>
+<rect fill="none" height="526" stroke="#000000" stroke-width="1" width="20" x="79" y="63"/>
+<rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="14" y="14"/>
+<rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="14" y="14"/>
+<text font-family="Dialog" font-size="12" x="41" y="27">
+/Потретбител</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="63" y2="68"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="73" y2="78"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="83" y2="88"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="93" y2="98"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="103" y2="108"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="113" y2="118"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="123" y2="128"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="133" y2="138"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="143" y2="148"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="153" y2="158"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="163" y2="168"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="173" y2="178"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="183" y2="188"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="193" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="203" y2="208"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="213" y2="218"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="223" y2="228"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="233" y2="238"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="243" y2="248"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="253" y2="258"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="263" y2="268"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="273" y2="278"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="283" y2="288"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="293" y2="298"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="303" y2="308"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="313" y2="318"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="323" y2="328"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="333" y2="338"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="343" y2="348"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="353" y2="358"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="363" y2="368"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="373" y2="378"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="383" y2="388"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="393" y2="398"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="403" y2="408"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="413" y2="418"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="423" y2="428"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="433" y2="438"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="443" y2="448"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="453" y2="458"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="463" y2="468"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="473" y2="478"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="483" y2="488"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="493" y2="498"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="503" y2="508"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="513" y2="518"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="523" y2="528"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="533" y2="538"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="543" y2="548"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="553" y2="558"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="563" y2="568"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="573" y2="578"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="473" x2="473" y1="583" y2="588"/>
+<rect fill="#ffffff" height="525" stroke="#ffffff" stroke-width="1" width="20" x="463" y="63"/>
+<rect fill="none" height="525" stroke="#000000" stroke-width="1" width="20" x="463" y="63"/>
+<rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="150" x="398" y="14"/>
+<rect fill="none" height="50" stroke="#000000" stroke-width="1" width="150" x="398" y="14"/>
+<text font-family="Dialog" font-size="12" x="442" y="27">
+/Система</text>
+<rect fill="none" height="96" stroke="#000000" stroke-width="1" width="464" x="46" y="294"/>
+<polyline fill="none" points="99,94 463,94" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="101" y2="94"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="87" y2="94"/>
+<text font-family="Dialog" font-size="12" x="237" y="89">
+новоУстройство()</text>
+<polyline fill="none" points="99,174 463,174" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="181" y2="174"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="167" y2="174"/>
+<text font-family="Dialog" font-size="12" x="237" y="169">
+описание(текст)</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="463" x2="458" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="453" x2="448" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="443" x2="438" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="433" x2="428" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="423" x2="418" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="413" x2="408" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="403" x2="398" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="393" x2="388" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="383" x2="378" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="373" x2="368" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="363" x2="358" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="353" x2="348" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="343" x2="338" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="333" x2="328" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="323" x2="318" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="313" x2="308" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="303" x2="298" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="293" x2="288" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="283" x2="278" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="273" x2="268" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="263" x2="258" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="253" x2="248" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="243" x2="238" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="233" x2="228" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="223" x2="218" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="213" x2="208" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="203" x2="198" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="193" x2="188" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="183" x2="178" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="173" x2="168" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="163" x2="158" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="153" x2="148" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="143" x2="138" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="133" x2="128" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="123" x2="118" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="99" y1="220" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="213" y2="220"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="227" y2="220"/>
+<text font-family="Dialog" font-size="12" x="237" y="215">
+списъкНаличниФункции()</text>
+<polyline fill="none" points="99,254 463,254" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="261" y2="254"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="247" y2="254"/>
+<text font-family="Dialog" font-size="12" x="237" y="249">
+избраниФункции(списък)</text>
+<rect fill="none" height="94" stroke="#000000" stroke-width="1" width="464" x="46" y="184"/>
+<polyline fill="none" points="99,372 463,372" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="379" y2="372"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="365" y2="372"/>
+<text font-family="Dialog" font-size="12" x="237" y="367">
+избраниЧасти(списък)</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="463" x2="458" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="453" x2="448" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="443" x2="438" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="433" x2="428" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="423" x2="418" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="413" x2="408" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="403" x2="398" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="393" x2="388" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="383" x2="378" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="373" x2="368" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="363" x2="358" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="353" x2="348" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="343" x2="338" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="333" x2="328" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="323" x2="318" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="313" x2="308" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="303" x2="298" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="293" x2="288" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="283" x2="278" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="273" x2="268" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="263" x2="258" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="253" x2="248" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="243" x2="238" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="233" x2="228" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="223" x2="218" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="213" x2="208" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="203" x2="198" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="193" x2="188" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="183" x2="178" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="173" x2="168" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="163" x2="158" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="153" x2="148" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="143" x2="138" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="133" x2="128" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="123" x2="118" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="99" y1="336" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="329" y2="336"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="343" y2="336"/>
+<text font-family="Dialog" font-size="12" x="237" y="331">
+наличниЧасти()</text>
+<polyline fill="none" points="99,438 463,438" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="445" y2="438"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="431" y2="438"/>
+<text font-family="Dialog" font-size="12" x="237" y="433">
+СИМКарта(номер, оператор)</text>
+<polyline fill="none" points="99,534 463,534" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="541" y2="534"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="527" y2="534"/>
+<text font-family="Dialog" font-size="12" x="237" y="529">
+записване()</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="63" y2="68"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="73" y2="78"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="83" y2="88"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="93" y2="98"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="103" y2="108"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="113" y2="118"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="123" y2="128"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="133" y2="138"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="143" y2="148"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="153" y2="158"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="163" y2="168"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="173" y2="178"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="183" y2="188"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="193" y2="198"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="203" y2="208"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="213" y2="218"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="223" y2="228"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="233" y2="238"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="243" y2="248"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="253" y2="258"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="263" y2="268"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="273" y2="278"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="283" y2="288"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="293" y2="298"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="303" y2="308"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="313" y2="318"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="323" y2="328"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="333" y2="338"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="343" y2="348"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="353" y2="358"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="363" y2="368"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="373" y2="378"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="383" y2="388"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="393" y2="398"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="403" y2="408"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="413" y2="418"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="423" y2="428"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="433" y2="438"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="443" y2="448"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="453" y2="458"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="463" y2="468"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="473" y2="478"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="483" y2="488"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="493" y2="498"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="503" y2="508"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="513" y2="518"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="523" y2="528"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="533" y2="538"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="543" y2="548"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="553" y2="558"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="563" y2="568"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="573" y2="578"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="903" x2="903" y1="583" y2="588"/>
+<rect fill="#ffffff" height="525" stroke="#ffffff" stroke-width="1" width="20" x="893" y="63"/>
+<rect fill="none" height="525" stroke="#000000" stroke-width="1" width="20" x="893" y="63"/>
+<rect fill="#ffffff" height="50" stroke="#ffffff" stroke-width="1" width="258" x="774" y="14"/>
+<rect fill="none" height="50" stroke="#000000" stroke-width="1" width="258" x="774" y="14"/>
+<text font-family="Dialog" font-size="12" x="778" y="27">
+/Подсистема за управление на данни</text>
+<polyline fill="none" points="483,114 893,114" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="121" y2="114"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="107" y2="114"/>
+<text font-family="Dialog" font-size="12" x="550" y="103">
+новоУстройство (стойностиПодразбиране)</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="893" x2="888" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="883" x2="878" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="873" x2="868" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="863" x2="858" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="853" x2="848" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="843" x2="838" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="833" x2="828" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="823" x2="818" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="813" x2="808" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="803" x2="798" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="793" x2="788" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="783" x2="778" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="773" x2="768" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="763" x2="758" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="753" x2="748" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="743" x2="738" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="733" x2="728" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="723" x2="718" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="713" x2="708" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="703" x2="698" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="693" x2="688" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="683" x2="678" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="673" x2="668" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="663" x2="658" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="653" x2="648" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="643" x2="638" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="633" x2="628" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="623" x2="618" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="613" x2="608" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="603" x2="598" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="593" x2="588" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="583" x2="578" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="573" x2="568" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="563" x2="558" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="553" x2="548" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="543" x2="538" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="533" x2="528" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="523" x2="518" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="513" x2="508" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="503" x2="498" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="493" x2="488" y1="134" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="495" x2="483" y1="127" y2="134"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="495" x2="483" y1="141" y2="134"/>
+<text font-family="Dialog" font-size="12" x="601" y="130">
+създаденоУстройство()</text>
+<polyline fill="none" points="483,150 893,150" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="157" y2="150"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="143" y2="150"/>
+<text font-family="Dialog" font-size="12" x="547" y="166">
+описаниеУстройство (устройство, описание)</text>
+<polyline fill="none" points="483,286 893,286" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="293" y2="286"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="279" y2="286"/>
+<text font-family="Dialog" font-size="12" x="553" y="277">
+функции (устройство, функции)</text>
+<polyline fill="none" points="483,414 893,414" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="421" y2="414"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="407" y2="414"/>
+<text font-family="Dialog" font-size="12" x="574" y="406">
+части (устройство, части)</text>
+<polyline fill="none" points="483,462 893,462" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="469" y2="462"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="455" y2="462"/>
+<text font-family="Dialog" font-size="12" x="527" y="455">
+устройствоСИМКарта (устройство, номер, оператор)</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="893" x2="888" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="883" x2="878" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="873" x2="868" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="863" x2="858" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="853" x2="848" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="843" x2="838" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="833" x2="828" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="823" x2="818" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="813" x2="808" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="803" x2="798" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="793" x2="788" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="783" x2="778" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="773" x2="768" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="763" x2="758" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="753" x2="748" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="743" x2="738" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="733" x2="728" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="723" x2="718" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="713" x2="708" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="703" x2="698" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="693" x2="688" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="683" x2="678" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="673" x2="668" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="663" x2="658" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="653" x2="648" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="643" x2="638" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="633" x2="628" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="623" x2="618" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="613" x2="608" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="603" x2="598" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="593" x2="588" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="583" x2="578" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="573" x2="568" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="563" x2="558" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="553" x2="548" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="543" x2="538" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="533" x2="528" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="523" x2="518" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="513" x2="508" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="503" x2="498" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="493" x2="488" y1="542" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="495" x2="483" y1="535" y2="542"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="495" x2="483" y1="549" y2="542"/>
+<text font-family="Dialog" font-size="12" x="644" y="537">
+успех()</text>
+<polyline fill="none" points="99,494 463,494" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="501" y2="494"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="451" x2="463" y1="487" y2="494"/>
+<text font-family="Dialog" font-size="12" x="237" y="489">
+потвърждение()</text>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="463" x2="458" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="453" x2="448" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="443" x2="438" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="433" x2="428" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="423" x2="418" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="413" x2="408" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="403" x2="398" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="393" x2="388" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="383" x2="378" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="373" x2="368" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="363" x2="358" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="353" x2="348" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="343" x2="338" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="333" x2="328" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="323" x2="318" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="313" x2="308" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="303" x2="298" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="293" x2="288" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="283" x2="278" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="273" x2="268" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="263" x2="258" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="253" x2="248" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="243" x2="238" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="233" x2="228" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="223" x2="218" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="213" x2="208" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="203" x2="198" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="193" x2="188" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="183" x2="178" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="173" x2="168" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="163" x2="158" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="153" x2="148" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="143" x2="138" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="133" x2="128" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="123" x2="118" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="113" x2="108" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="103" x2="99" y1="589" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="582" y2="589"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="111" x2="99" y1="596" y2="589"/>
+<text font-family="Dialog" font-size="12" x="237" y="584">
+успех()</text>
+<polyline fill="none" points="483,514 893,514" stroke="#000000" stroke-width="1"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="521" y2="514"/>
+<line fill="#000000" stroke="#000000" stroke-width="1" x1="881" x2="893" y1="507" y2="514"/>
+<text font-family="Dialog" font-size="12" x="644" y="509">
+записване (устройство)</text>
+<text font-family="Dialog" font-size="12" x="56" y="275">
+докато потребителят иска да променя избраните ф-ии *</text>
+<text font-family="Dialog" font-size="12" x="50" y="387">
+докато потр. иска да избира части</text>
+</svg>

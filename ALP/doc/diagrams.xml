@@ -1,0 +1,106 @@
+<!--Vision-->
+<sect1>
+  <title>Диаграми</title>
+  <figure id="ssd-uc3">
+    <title>Диаграма на последователностите (Добавяне на данни за устройство)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/ssd-uc3.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="scd-ticket">
+    <title>Диаграма на преходите (State Chart Diagram) за статус на тикетите</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/scd-ticket.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="ssd-uc4">
+    <title>Диаграма на последователностите (Изготвяне на справка за съвместимост на устройства и изисквания)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/ssd-uc4.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="ssd-uc13">
+    <title>Диаграма на последователностите (Въвеждане на нов договор)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/SSD-UC13.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="ssd-uc2">
+    <title>Диаграма на последователностите (Въвеждане на тикет)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/SSD-UC2.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="activity-uc9">
+    <title>Диаграма на действията (Административна промяна на профил)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/activity-uc9.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="activity-uc11">
+    <title>Диаграма на действията (Въвеждане на информация за клиент на компанията)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/activity-uc11.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+
+  <figure id="activity-uc2">
+    <title>Диаграма на действията (Въвеждане на тикет)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/activity-uc2.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+
+  <figure id="ssd-uc5">
+    <title>Диаграма на последователностите (Променяне на тикет)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/SSD-UC5.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+
+
+  <figure id="scd-uc2">
+    <title>Диаграма на действията (Въвеждане на тикет)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/scd-uc2.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+
+  <figure id="ssd-uc15">
+    <title>Диаграма на последователностите (Добавяне на бележка по статуса на клиент)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/ssd-uc15.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+  <figure id="scd-uc15">
+    <title>Диаграма на действията (Добавяне на бележка по статуса на клиент)</title>
+    <mediaobject> 
+      <imageobject>
+	<imagedata fileref="../diagrams/scd-uc15.png" format="PNG"/>
+      </imageobject>
+    </mediaobject>
+  </figure>
+
+</sect1>
