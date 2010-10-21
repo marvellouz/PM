@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.11)  21 OCT 2010 00:10
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.11)  21 OCT 2010 23:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2242,10 +2242,10 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15351 strings out of 493738
- 266165 string characters out of 3148796
- 352111 words of memory out of 3000000
- 18179 multiletter control sequences out of 15000+200000
+ 15353 strings out of 493738
+ 266181 string characters out of 3148796
+ 352113 words of memory out of 3000000
+ 18181 multiletter control sequences out of 15000+200000
  10299 words of font info for 24 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  48i,17n,57p,348b,547s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2255,7 +2255,7 @@ k> </home/valentina/.texlive/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lass0600.600pk
 > </home/valentina/.texlive/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lass0800.600pk>
  </home/valentina/.texlive/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lass1095.600pk> 
 </home/valentina/.texlive/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lass1440.600pk>
-Output written on presentation1.pdf (9 pages, 70721 bytes).
+Output written on presentation1.pdf (9 pages, 70712 bytes).
 PDF statistics:
  474 PDF objects out of 1000 (max. 8388607)
  270 compressed objects within 3 object streams
