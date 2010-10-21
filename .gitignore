@@ -1,0 +1,7 @@
+*.log
+*.pdf
+*.nav
+*.snm
+*~
+.*~lock*
+*.toc
